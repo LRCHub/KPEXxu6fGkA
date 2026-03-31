@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Die tomorrow",
+  "base_artist": "coldrain",
+  "createdAt": "2026-03-31T05:45:08.509643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_If_I_Die_Tomorrow_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/02_If_I_Die_Tomorrow_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Die Tomorrow (What If You Should ?)",
+      "artist": "Dagoba",
+      "has_synced": true,
+      "path": "select/03_Die_Tomorrow_(What_If_You_Should__)_Dagoba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Die Tomorrow (…What If You Should?)",
+      "artist": "Dagoba",
+      "has_synced": false,
+      "path": "select/04_Die_Tomorrow_(...What_If_You_Should_)_Dagoba.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/05_If_I_Die_Tomorrow_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Far East Movement feat. Bill Kaulitz",
+      "has_synced": true,
+      "path": "select/06_If_I_Die_Tomorrow_Far_East_Movement_feat._Bill_Kaulitz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Far East Movement Ft. Bill Kaulitz",
+      "has_synced": true,
+      "path": "select/07_If_I_Die_Tomorrow_Far_East_Movement_Ft._Bill_Kaulitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow [#]",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/08_If_I_Die_Tomorrow_[_]_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Motley Crue",
+      "has_synced": true,
+      "path": "select/09_If_I_Die_Tomorrow_Motley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Die Tomorrow",
+      "artist": "Lord of the Lost",
+      "has_synced": true,
+      "path": "select/10_Die_Tomorrow_Lord_of_the_Lost.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Die Tomorrow (The Day After) [Remix by Letzte Instanz]",
+      "artist": "Lord of the Lost",
+      "has_synced": false,
+      "path": "select/11_Die_Tomorrow_(The_Day_After)_[Remix_by_Letzte_Instanz]_Lord_of_the_Lost.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Motley Crue",
+      "has_synced": true,
+      "path": "select/12_If_I_Die_Tomorrow_Motley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die Tomorrow - Live In Hamburg 2019",
+      "artist": "Lord of the Lost",
+      "has_synced": true,
+      "path": "select/13_Die_Tomorrow_-_Live_In_Hamburg_2019_Lord_of_the_Lost.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Die Tomorrow (Live in Hamburg 2019)",
+      "artist": "Lord Of The Lost",
+      "has_synced": true,
+      "path": "select/14_Die_Tomorrow_(Live_in_Hamburg_2019)_Lord_Of_The_Lost.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Die Tomorrow (Swing Tomorrow Version by Rocksin)",
+      "artist": "Lord of the Lost",
+      "has_synced": false,
+      "path": "select/15_Die_Tomorrow_(Swing_Tomorrow_Version_by_Rocksin)_Lord_of_the_Lost.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Die Tomorrow (Swing Tomorrow Version'By Rocksin)",
+      "artist": "Lord Of The Lost",
+      "has_synced": true,
+      "path": "select/16_Die_Tomorrow_(Swing_Tomorrow_Version'By_Rocksin)_Lord_Of_The_Lost.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die tomorrow",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_Die_tomorrow_coldrain.txt"
+    }
+  ]
+}
